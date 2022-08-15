@@ -15,6 +15,7 @@
 3. Delete driver
 4. Check online/offline
 5. Check inside/outside area
+6. Refresh the data
 
 # Instalation
 
